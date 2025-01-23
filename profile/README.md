@@ -7,6 +7,7 @@
 [![Stars](https://img.shields.io/github/stars/ExamAware/dsz-exam-showboard?label=Stars)](https://github.com/ExamAware/dsz-exam-showboard)
 [![下载量](https://img.shields.io/github/downloads/ExamAware/dsz-exam-showboard/total?style=social&label=下载量&logo=github)](https://github.com/ExamAware/dsz-exam-showboard/releases/latest)
 [![正式版 Release](https://img.shields.io/github/v/release/ExamAware/dsz-exam-showboard?style=flat-square&color=%233fb950&label=正式版)](https://github.com/ExamAware/dsz-exam-showboard/releases/latest)
+[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C901670561-blue?style=flat&logo=QQ)](https://qm.qq.com/q/zDiEipHsaI)
 [![测试版 Release](https://img.shields.io/github/v/release/ExamAware/dsz-exam-showboard?include_prereleases&style=flat-square&label=测试版)](https://github.com/ExamAware/dsz-exam-showboard/releases/)
 
 ExamAware 是一款显示当前时间与考试详细信息的显示工具，可以在各平台上运行。
@@ -59,7 +60,7 @@ ExamAware 是一款显示当前时间与考试详细信息的显示工具，可�
 > [!important]
 > **详细安装说明请参阅 [ExamAware wiki](https://github.com/ProjectCampus-CH/exam-showboard-next/wiki/%E5%AE%89%E8%A3%85%E4%B8%8E%E5%BC%80%E5%A7%8B)。**
 
-​## 获取帮助＆加入社区
+## 获取帮助＆加入社区
 
 📄 您可以访问 [ExamAware wiki](https://github.com/ProjectCampus-CH/exam-showboard-next/wiki)
 

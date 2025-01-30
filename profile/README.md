@@ -18,8 +18,6 @@ ExamAware 是一款显示当前时间与考试详细信息的显示工具，可�
 
 本组织下的主要仓库：
 
-<div align="center">
-
 [![dsz-exam-showboard](https://github-readme-stats.vercel.app/api/pin/?username=ExamAware&repo=dsz-exam-showboard)](https://github.com/ExamAware/dsz-exam-showboard)
 
 桌面端仓库
@@ -36,7 +34,9 @@ ExamAware 是一款显示当前时间与考试详细信息的显示工具，可�
 
 配置文件编辑器
 
-</div>
+[![ExamCloud](https://github-readme-stats.vercel.app/api/pin/?username=ExamAware&repo=ExamCloud)](https://github.com/ExamAware/ExamCloud)
+
+考试看板云
 
 ## 使用
 

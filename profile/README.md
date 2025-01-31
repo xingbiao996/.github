@@ -2,7 +2,7 @@
 
 <image src="https://avatars.githubusercontent.com/u/195304368?s=200&v=4" height="64"/>
 
-# ExamAware
+# [ExamAware](https://examaware.gdata.fun/)
 
 [![Stars](https://img.shields.io/github/stars/ExamAware/dsz-exam-showboard?label=Stars)](https://github.com/ExamAware/dsz-exam-showboard)
 [![下载量](https://img.shields.io/github/downloads/ExamAware/dsz-exam-showboard/total?style=social&label=下载量&logo=github)](https://github.com/ExamAware/dsz-exam-showboard/releases/latest)

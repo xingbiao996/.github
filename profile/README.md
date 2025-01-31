@@ -10,7 +10,7 @@
 [![正式版 Release](https://img.shields.io/github/v/release/ExamAware/dsz-exam-showboard?style=flat&color=%233fb950&label=正式版)](https://github.com/ExamAware/dsz-exam-showboard/releases/latest)
 [![测试版 Release](https://img.shields.io/github/v/release/ExamAware/dsz-exam-showboard?include_prereleases&style=flat&label=测试版)](https://github.com/ExamAware/dsz-exam-showboard/releases/)
 
-ExamAware 是一款显示当前时间与考试详细信息的显示工具，可以在各平台上运行。
+ExamAware 系列软件是显示当前时间与考试详细信息的显示工具，可以在各平台上运行。
 
 </div>
 
@@ -32,11 +32,11 @@ ExamAware 是一款显示当前时间与考试详细信息的显示工具，可�
 
 [![DSZExamShowBoardEditor](https://github-readme-stats.vercel.app/api/pin/?username=ExamAware&repo=DSZExamShowBoardEditor)](https://github.com/ExamAware/DSZExamShowBoardEditor)
 
-配置文件编辑器
+配置文件编辑器（已存档）
 
 [![ExamCloud](https://github-readme-stats.vercel.app/api/pin/?username=ExamAware&repo=ExamCloud)](https://github.com/ExamAware/ExamCloud)
 
-考试看板云
+考试看板云配置分发
 
 ## 使用
 
@@ -55,7 +55,7 @@ ExamAware 是一款显示当前时间与考试详细信息的显示工具，可�
 | - | - | - |
 | 桌面端 | [dsz-exam-showboard/releases](https://github.com/ExamAware/dsz-exam-showboard/releases) | [dsz-exam-showboard/actions](https://github.com/ExamAware/dsz-exam-showboard/actions) |
 | 移动端 | [dsz-examaware-mobile/releases](https://github.com/ExamAware/dsz-examaware-mobile/releases) | [dsz-examaware-mobile/actions](https://github.com/ExamAware/dsz-examaware-mobile/actions) |
-| 网页端 | [ExamSchedule/releases](https://github.com/ExamAware/ExamSchedule/releases) | [ExamSchedule/actions](https://github.com/ExamAware/ExamSchedule/actions) |
+| 网页端 | [ExamSchedule主分支](https://github.com/ExamAware/ExamSchedule) | [ExamSchedule开发分支](https://github.com/ExamAware/ExamSchedule/tree/dev) |
 
 > [!important]
 > **详细安装说明请参阅 [ExamAware wiki](https://github.com/ProjectCampus-CH/exam-showboard-next/wiki/%E5%AE%89%E8%A3%85%E4%B8%8E%E5%BC%80%E5%A7%8B)。**

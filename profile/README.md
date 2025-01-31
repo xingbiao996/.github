@@ -34,7 +34,7 @@ ExamAware 系列软件是显示当前时间与考试详细信息的显示工具�
 
 配置文件编辑器（已存档）
 
-[![ExamCloud](https://github-readme-stats.vercel.app/api/pin/?username=ExamAware&repo=ExamCloud)](https://github.com/ExamAware/ExamCloud)
+[![ExamCloudSchedule](https://github-readme-stats.vercel.app/api/pin/?username=ExamAware&repo=ExamCloudSchedule)](https://github.com/ExamAware/ExamCloudSchedule)
 
 考试看板云配置分发
 

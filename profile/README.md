@@ -2,7 +2,7 @@
 
 <div align="right">
 
-# [DSZ ExamAware](https://examaware.gdata.fun/)
+# DSZ ExamAware
 
 [![Stars](https://img.shields.io/github/stars/ExamAware/dsz-exam-showboard?label=Stars)](https://github.com/ExamAware/dsz-exam-showboard)
 [![下载量](https://img.shields.io/github/downloads/ExamAware/dsz-exam-showboard/total?style=social&label=下载量&logo=github)](https://github.com/ExamAware/dsz-exam-showboard/releases/latest)
@@ -32,7 +32,7 @@ ExamAware 系列软件是显示当前时间与考试详细信息的显示工具�
 
 ### 其他
 
-- [`ExamAware-docs`](https://github.com/ExamAware/ExamAware-docs) - ExamAware 文档站 **[直达](https://examaware.gdata.fun/)**
+- [`ExamAware-docs`](https://github.com/ExamAware/ExamAware-docs) - ExamAware 文档站 **[直达？](https://docs.examaware.us.kg/)**
 
 ## 使用
 
@@ -54,11 +54,11 @@ ExamAware 系列软件是显示当前时间与考试详细信息的显示工具�
 | 网页端 | [ExamSchedule主分支](https://github.com/ExamAware/ExamSchedule) | [ExamSchedule开发分支](https://github.com/ExamAware/ExamSchedule/tree/dev) |
 
 > [!important]
-> **详细安装说明请参阅 [ExamAware wiki](https://examaware.gdata.fun/app/setup.html)。**
+> **详细安装说明请参阅 [ExamAware wiki](https://docs.examaware.us.kg/app/setup.html)。**
 
 ## 获取帮助＆加入社区
 
-📄 您可以访问 [ExamAware wiki](https://examaware.gdata.fun/)
+📄 您可以访问 [ExamAware wiki](https://docs.examaware.us.kg/)
 
 💡 如果您遇到 `Bug` ，或需要提出 `优化` 建议或新的 `功能` ，请在对应仓库提交 `Issues`或在 `Discussions` 中讨论
 

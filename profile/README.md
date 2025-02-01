@@ -1,8 +1,8 @@
-<div align="center">
+<img width="150" height="150" align="right" style="float: right; margin: 0 10px 0 0;" alt="LGBT-CN logo" src="https://avatars.githubusercontent.com/u/195304368?s=200&v=4">
 
-<image src="https://avatars.githubusercontent.com/u/195304368?s=200&v=4" height="64"/>
+<div align="right">
 
-# [ExamAware](https://examaware.gdata.fun/)
+# [DSZ ExamAware](https://examaware.gdata.fun/)
 
 [![Stars](https://img.shields.io/github/stars/ExamAware/dsz-exam-showboard?label=Stars)](https://github.com/ExamAware/dsz-exam-showboard)
 [![下载量](https://img.shields.io/github/downloads/ExamAware/dsz-exam-showboard/total?style=social&label=下载量&logo=github)](https://github.com/ExamAware/dsz-exam-showboard/releases/latest)
@@ -16,35 +16,31 @@ ExamAware 系列软件是显示当前时间与考试详细信息的显示工具�
 
 ## 仓库
 
-本组织下的主要仓库：
+本组织下的一些主要仓库：
 
-[![dsz-exam-showboard](https://github-readme-stats.vercel.app/api/pin/?username=ExamAware&repo=dsz-exam-showboard)](https://github.com/ExamAware/dsz-exam-showboard)
+### 旧版 ExamAware （已过时）
 
-桌面端仓库
+- [`DSZ-Exam-Showboard`](https://github.com/ExamAware/dsz-exam-showboard) - **高可用性** 桌面端旧版考试看板
+- [`DSZExamShowBoardEditor`](https://github.com/ExamAware/DSZExamShowBoardEditor) - 旧版配置文件编辑器（已存档）
+- [`dsz-examaware-mobile`](https://github.com/ExamAware/dsz-examaware-mobile) - 移动端旧版考试看板
 
-[![ExamSchedule](https://github-readme-stats.vercel.app/api/pin/?username=ExamAware&repo=ExamSchedule)](https://github.com/ExamAware/ExamSchedule)
+### 新版 ExamAware
 
-网页端仓库
+- [`ExamSchedule`](https://github.com/ExamAware/ExamSchedule) - **高可用性** 网页版考试看板
+- [`ExamCloudSchedule`](https://github.com/ExamAware/ExamCloudSchedule) - 考试云看板
+- [`ExamAware2-Desktop`](https://github.com/ExamAware/ExamAware2-Desktop) - **🚧正在开发中** DSZ知试🧀桌面端
 
-[![dsz-examaware-mobile](https://github-readme-stats.vercel.app/api/pin/?username=ExamAware&repo=dsz-examaware-mobile)](https://github.com/ExamAware/dsz-examaware-mobile)
+### 其他
 
-移动端仓库
-
-[![DSZExamShowBoardEditor](https://github-readme-stats.vercel.app/api/pin/?username=ExamAware&repo=DSZExamShowBoardEditor)](https://github.com/ExamAware/DSZExamShowBoardEditor)
-
-配置文件编辑器（已存档）
-
-[![ExamCloudSchedule](https://github-readme-stats.vercel.app/api/pin/?username=ExamAware&repo=ExamCloudSchedule)](https://github.com/ExamAware/ExamCloudSchedule)
-
-考试看板云配置分发
+- [`ExamAware-docs`](https://github.com/ExamAware/ExamAware-docs) - ExamAware 文档站 **[直达](https://examaware.gdata.fun/)**
 
 ## 使用
 
-**请确保您的系统满足以下推荐需求：**
+**请确保您的系统满足以下需求：**
 
 - 桌面端
   - **Windows:** Windows 10 及以上，x64/86 架构   
-  - **Linux:**
+  - **Linux:** 尚未确定
   - **macOS:** macOS 13 及以上
 - 移动端
   - **Android:** Android 7 及以上
@@ -58,11 +54,11 @@ ExamAware 系列软件是显示当前时间与考试详细信息的显示工具�
 | 网页端 | [ExamSchedule主分支](https://github.com/ExamAware/ExamSchedule) | [ExamSchedule开发分支](https://github.com/ExamAware/ExamSchedule/tree/dev) |
 
 > [!important]
-> **详细安装说明请参阅 [ExamAware wiki](https://github.com/ProjectCampus-CH/exam-showboard-next/wiki/%E5%AE%89%E8%A3%85%E4%B8%8E%E5%BC%80%E5%A7%8B)。**
+> **详细安装说明请参阅 [ExamAware wiki](https://examaware.gdata.fun/app/setup.html)。**
 
 ## 获取帮助＆加入社区
 
-📄 您可以访问 [ExamAware wiki](https://github.com/ProjectCampus-CH/exam-showboard-next/wiki)
+📄 您可以访问 [ExamAware wiki](https://examaware.gdata.fun/)
 
 💡 如果您遇到 `Bug` ，或需要提出 `优化` 建议或新的 `功能` ，请在对应仓库提交 `Issues`或在 `Discussions` 中讨论
 

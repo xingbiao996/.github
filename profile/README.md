@@ -21,14 +21,16 @@ ExamAware 系列软件是显示当前时间与考试详细信息的显示工具�
 ### 旧版 ExamAware （已过时）
 
 - [`DSZ-Exam-Showboard`](https://github.com/ExamAware/dsz-exam-showboard) - **高可用性** 桌面端旧版考试看板
-- [`DSZExamShowBoardEditor`](https://github.com/ExamAware/DSZExamShowBoardEditor) - 旧版配置文件编辑器（已存档）
 - [`dsz-examaware-mobile`](https://github.com/ExamAware/dsz-examaware-mobile) - 移动端旧版考试看板
 
 ### 新版 ExamAware
 
-- [`ExamSchedule`](https://github.com/ExamAware/ExamSchedule) - **高可用性** 网页版考试看板
-- [`ExamCloudSchedule`](https://github.com/ExamAware/ExamCloudSchedule) - 考试云看板
-- [`ExamAware2-Desktop`](https://github.com/ExamAware/ExamAware2-Desktop) - **🚧正在开发中** DSZ知试🧀桌面端
+- - ExamSchedule 系列
+  - [`ExamSchedule`](https://github.com/ExamAware/ExamSchedule) - **高可用性** 网页版考试看板
+  - [`ExamCloudSchedule`](https://github.com/ExamAware/ExamCloudSchedule) - 考试云看板
+  - [`ExamScheduleEditor`](https://github.com/ExamAware/ExamScheduleEditor) - 旧版配置文件编辑器
+- ExamAware2 系列
+  - [`ExamAware2-Desktop`](https://github.com/ExamAware/ExamAware2-Desktop) - **🚧正在开发中** DSZ知试🧀桌面端
 
 ### 其他
 

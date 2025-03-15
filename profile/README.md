@@ -34,7 +34,7 @@ ExamAware 系列软件是显示当前时间与考试详细信息的显示工具�
 
 ### 其他
 
-- [`ExamAware-docs`](https://github.com/ExamAware/ExamAware-docs) - ExamAware 文档站 **[直达？](https://docs.examaware.us.kg/)**
+- [`ExamAware-docs`](https://github.com/ExamAware/ExamAware-docs) - ExamAware 文档站 **[直达？](https://docs.examaware.tech/)**
 
 ## 使用
 
@@ -56,11 +56,11 @@ ExamAware 系列软件是显示当前时间与考试详细信息的显示工具�
 | 网页端 | [ExamSchedule主分支](https://github.com/ExamAware/ExamSchedule) | [ExamSchedule开发分支](https://github.com/ExamAware/ExamSchedule/tree/dev) |
 
 > [!important]
-> **详细安装说明请参阅 [ExamAware wiki](https://docs.examaware.us.kg/app/setup.html)。**
+> **详细安装说明请参阅 [ExamAware wiki](https://docs.examaware.tech/app/setup.html)。**
 
 ## 获取帮助＆加入社区
 
-📄 您可以访问 [ExamAware wiki](https://docs.examaware.us.kg/)
+📄 您可以访问 [ExamAware wiki](https://docs.examaware.tech/)
 
 💡 如果您遇到 `Bug` ，或需要提出 `优化` 建议或新的 `功能` ，请在对应仓库提交 `Issues`或在 `Discussions` 中讨论
 
